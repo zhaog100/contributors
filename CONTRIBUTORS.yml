@@ -1,0 +1,198 @@
+# Elyan Labs Ecosystem Contributor Registry
+# https://github.com/Scottcjn/contributors
+#
+# How to add yourself:
+#   1. Open an issue using the "Register Contributor" template
+#   2. Or submit a PR adding your entry below
+#   3. Earn 5 RTC join bounty on registration!
+#
+# Types: human | bot | agent
+# Roles: founder, maintainer, contributor, bounty-hunter,
+#        security-researcher, security-auditor, ambassador, agent, miner
+
+schema_version: 1
+last_updated: "2026-03-10"
+
+contributors:
+
+  # ─── FOUNDERS ───────────────────────────────────────────
+
+  - github: Scottcjn
+    display_name: "Scott Boudreaux (Flameholder)"
+    type: human
+    wallet: founder_community
+    repos: [Rustchain, bottube, rustchain-bounties, beacon-skill, grazer-skill, rustchain-mcp, ram-coffers, legend-of-elya-n64]
+    total_rtc_earned: 0.00
+    join_date: "2024-10-04"
+    status: active
+    roles: [founder, maintainer]
+
+  - github: sophiaeagent-beep
+    display_name: "Sophia Elya (Helpmeet)"
+    type: agent
+    wallet: sophia-elya
+    repos: [Rustchain, bottube, rustchain-bounties, legend-of-elya-n64, beacon-skill, clawrtc]
+    total_rtc_earned: 0.00
+    join_date: "2024-10-04"
+    status: active
+    roles: [founder, maintainer, agent]
+
+  - github: jrclawdbot-dev
+    display_name: "JR Clawdbot"
+    type: agent
+    wallet: jrclawdbot
+    repos: [KafkaBlockchain]
+    total_rtc_earned: 0.00
+    join_date: "2026-02-05"
+    status: active
+    roles: [agent]
+
+  # ─── TOP CONTRIBUTORS (100+ RTC) ───────────────────────
+
+  - github: createkr
+    display_name: "createkr"
+    type: human
+    wallet: createkr
+    wallets_alt: [RTC1d48d84, createkr-wallet]
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 2643.00
+    join_date: "2025-12-15"
+    status: active
+    roles: [contributor, bounty-hunter]
+    notes: "Top contributor. Wallet CLI, governance, SDKs, mobile wallet, i18n. Level 5."
+
+  - github: liu971227-sys
+    display_name: "liu971227-sys"
+    type: human
+    wallet: liu971227-sys
+    wallets_alt: [RTCa320f43]
+    repos: [Rustchain, beacon-skill]
+    total_rtc_earned: 2303.00
+    join_date: "2025-12-10"
+    status: active
+    roles: [contributor, security-researcher]
+    notes: "Security researcher. RIP-201, attestation hardening."
+
+  - github: noxxxxybot-sketch
+    display_name: "noxxxxybot / nox-ventures"
+    type: human
+    wallet: nox-ventures
+    repos: [Rustchain]
+    total_rtc_earned: 1001.50
+    join_date: "2026-01-15"
+    status: active
+    roles: [contributor, bounty-hunter]
+    notes: "Articles, tools, translations, March Madness."
+
+  - github: BuilderFred
+    display_name: "BuilderFred"
+    type: human
+    wallet: BuilderFred
+    repos: [Rustchain]
+    total_rtc_earned: 493.00
+    join_date: "2025-12-20"
+    status: active
+    roles: [contributor, security-auditor]
+    notes: "Security audit — found 6 vulnerabilities, all fixed."
+
+  - github: krishna2918-arch
+    display_name: "krishna2918"
+    type: human
+    wallet: krishna2918-arch
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 175.00
+    join_date: "2026-01-15"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: Joshualover
+    display_name: "Joshualover"
+    type: human
+    wallet: Joshualover
+    repos: [Rustchain, bottube, rustchain-bounties]
+    total_rtc_earned: 127.00
+    join_date: "2026-01-20"
+    status: active
+    roles: [contributor, bounty-hunter]
+    notes: "Star campaign — 65 repos starred."
+
+  - github: ArokyaMatthew
+    display_name: "ArokyaMatthew"
+    type: human
+    wallet: null
+    repos: [Rustchain]
+    total_rtc_earned: 190.00
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor, bounty-hunter]
+    notes: "Awaiting wallet address."
+
+  # ─── ACTIVE CONTRIBUTORS ───────────────────────────────
+
+  - github: john-reed-garrison
+    display_name: "John Reed (Garrison)"
+    type: human
+    wallet: john-reed-garrison
+    repos: [Rustchain]
+    total_rtc_earned: 250.00
+    join_date: "2026-03-01"
+    status: active
+    roles: [ambassador]
+    notes: "Ambassador + Support. Onboarded with 250 RTC."
+
+  - github: Async777
+    display_name: "Async777"
+    type: human
+    wallet: Async777
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 3.00
+    join_date: "2026-03-08"
+    status: active
+    roles: [contributor]
+
+  - github: wsimon1982
+    display_name: "wsimon1982"
+    type: human
+    wallet: wsimon1982
+    repos: [rustchain-bounties]
+    total_rtc_earned: 1.00
+    join_date: "2026-03-08"
+    status: active
+    roles: [contributor]
+
+  - github: sososonia-cyber
+    display_name: "sososonia-cyber"
+    type: bot
+    wallet: null
+    repos: [Rustchain]
+    total_rtc_earned: 0.00
+    join_date: "2026-02-15"
+    status: inactive
+    roles: [bot-contributor]
+    notes: "15 spam PRs closed. Flagged."
+
+  # ─── MINERS ────────────────────────────────────────────
+
+  - github: null
+    display_name: "frozen-factorio-ryan"
+    type: human
+    wallet: frozen-factorio-ryan
+    repos: []
+    total_rtc_earned: 0.00
+    join_date: "2025-12-10"
+    status: active
+    roles: [miner]
+    notes: "First external node. Ryan's Proxmox Factorio server."
+
+  # ─── TEMPLATE ──────────────────────────────────────────
+  # Copy this to register:
+  #
+  # - github: your-username
+  #   display_name: "Your Name"
+  #   type: human
+  #   wallet: your-rtc-wallet
+  #   repos: []
+  #   total_rtc_earned: 0.00
+  #   join_date: "2026-MM-DD"
+  #   status: active
+  #   roles: [contributor]

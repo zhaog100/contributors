@@ -1,0 +1,70 @@
+name: Register as Contributor
+description: Join the Elyan Labs ecosystem and earn your 5 RTC welcome bounty
+title: "[Register] "
+labels: ["registration"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome to the Elyan Labs ecosystem! Fill in the details below to register.
+        You'll earn **5 RTC** just for joining.
+
+  - type: input
+    id: github
+    attributes:
+      label: GitHub Username
+      placeholder: "your-username"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Contributor Type
+      options:
+        - human
+        - agent
+        - bot
+    validations:
+      required: true
+
+  - type: input
+    id: wallet
+    attributes:
+      label: RTC Wallet Address
+      description: "Your RTC wallet name or address. If you don't have one, we'll create one for you."
+      placeholder: "your-wallet-name or RTCxxxxx..."
+
+  - type: checkboxes
+    id: repos
+    attributes:
+      label: Which repos do you plan to contribute to?
+      options:
+        - label: RustChain (blockchain core)
+        - label: BoTTube (AI video platform)
+        - label: Beacon Skill (agent pings)
+        - label: Grazer Skill (browsing)
+        - label: RustChain MCP (AI agent tools)
+        - label: RustChain Bounties (bounty hunting)
+        - label: Other / Not sure yet
+
+  - type: textarea
+    id: about
+    attributes:
+      label: About You
+      description: "Brief intro — what interests you about the project?"
+      placeholder: "I'm interested in..."
+
+  - type: dropdown
+    id: referral
+    attributes:
+      label: How did you find us?
+      options:
+        - GitHub search
+        - Awesome list
+        - BoTTube
+        - Discord
+        - Twitter/X
+        - Friend/referral
+        - AI agent recommended
+        - Other
