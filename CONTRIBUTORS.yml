@@ -171,6 +171,368 @@ contributors:
     roles: [bot-contributor]
     notes: "15 spam PRs closed. Flagged."
 
+  # ─── CODE CONTRIBUTORS (with GitHub PRs) ────────────────
+
+  - github: David-code-tang
+    display_name: "David Tang (Codex)"
+    type: agent
+    wallet: davidtang-codex
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 921.00
+    join_date: "2026-01-10"
+    status: active
+    roles: [agent-contributor, bounty-hunter]
+
+  - github: dayi1000
+    display_name: "dayi1000 (nox alt)"
+    type: human
+    wallet: nox-ventures
+    repos: [Rustchain, grazer-skill]
+    total_rtc_earned: 0.00
+    join_date: "2026-01-15"
+    status: active
+    roles: [contributor]
+    notes: "Alt account for noxxxxybot-sketch."
+
+  - github: AdnanMehr8
+    display_name: "AdnanMehr8"
+    type: human
+    wallet: AdnanMehr8
+    repos: [Rustchain, rustchain-bounties, beacon-skill, grazer-skill]
+    total_rtc_earned: 55.00
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: edisonlv
+    display_name: "edisonlv"
+    type: human
+    wallet: edisonlv
+    repos: [Rustchain, beacon-skill, grazer-skill]
+    total_rtc_earned: 0.00
+    join_date: "2026-02-15"
+    status: active
+    roles: [contributor]
+
+  - github: sungdark
+    display_name: "sungdark"
+    type: human
+    wallet: sungdark
+    repos: [Rustchain, rustchain-bounties, beacon-skill]
+    total_rtc_earned: 83.60
+    join_date: "2025-12-01"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: hwl66
+    display_name: "hwl66"
+    type: human
+    wallet: hwl66
+    repos: [Rustchain, bottube, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor]
+
+  - github: zddsl
+    display_name: "zddsl"
+    type: human
+    wallet: zddsl
+    repos: [rustchain-bounties, beacon-skill, grazer-skill]
+    total_rtc_earned: 0.00
+    join_date: "2026-02-15"
+    status: active
+    roles: [contributor]
+
+  - github: addidea
+    display_name: "addidea"
+    type: human
+    wallet: addidea
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 117.00
+    join_date: "2026-01-20"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: autonomy414941
+    display_name: "autonomy414941"
+    type: human
+    wallet: autonomy414941
+    repos: [Rustchain, beacon-skill]
+    total_rtc_earned: 144.00
+    join_date: "2026-01-15"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: zhddoge-ai
+    display_name: "zhddoge-ai"
+    type: human
+    wallet: zhddoge-ai
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 159.00
+    join_date: "2026-01-20"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: seraphim941
+    display_name: "seraphim941"
+    type: human
+    wallet: seraphim941
+    repos: [Rustchain, beacon-skill]
+    total_rtc_earned: 0.00
+    join_date: "2026-02-15"
+    status: active
+    roles: [contributor]
+
+  - github: ansomeck
+    display_name: "ansomeck"
+    type: human
+    wallet: ansomeck
+    repos: [Rustchain, grazer-skill]
+    total_rtc_earned: 374.00
+    join_date: "2026-01-10"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: SASAMITTRRR
+    display_name: "SASAMITTRRR"
+    type: human
+    wallet: SASAMITTRRR
+    repos: [Rustchain]
+    total_rtc_earned: 128.50
+    join_date: "2025-12-15"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: nicepopo86-lang
+    display_name: "nicepopo86-lang"
+    type: human
+    wallet: nicepopo86-lang
+    repos: [Rustchain]
+    total_rtc_earned: 155.50
+    join_date: "2026-01-10"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: zhanglinqian
+    display_name: "zhanglinqian"
+    type: human
+    wallet: zhanglinqian
+    repos: [Rustchain]
+    total_rtc_earned: 756.20
+    join_date: "2026-01-05"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: Pitrat-wav
+    display_name: "Pitrat"
+    type: human
+    wallet: pitrat
+    repos: [Rustchain]
+    total_rtc_earned: 38.00
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor]
+
+  - github: samuel-asleep
+    display_name: "samuel-asleep"
+    type: human
+    wallet: samuel-asleep
+    repos: [Rustchain]
+    total_rtc_earned: 50.00
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor]
+
+  - github: pffs1802
+    display_name: "pffs1802"
+    type: human
+    wallet: pffs1802
+    repos: [Rustchain]
+    total_rtc_earned: 77.20
+    join_date: "2026-01-20"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: zzjpython
+    display_name: "zzjpython"
+    type: human
+    wallet: zzjpython
+    repos: [Rustchain]
+    total_rtc_earned: 48.00
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor]
+
+  - github: erdogan98
+    display_name: "erdogan98"
+    type: human
+    wallet: erdogan98
+    repos: [Rustchain]
+    total_rtc_earned: 315.00
+    join_date: "2026-01-05"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: OpenClaw3827
+    display_name: "OpenClaw3827"
+    type: human
+    wallet: OpenClaw3827
+    repos: [Rustchain]
+    total_rtc_earned: 53.00
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor]
+
+  - github: WYSIATI
+    display_name: "WYSIATI"
+    type: human
+    wallet: WYSIATI
+    repos: [Rustchain]
+    total_rtc_earned: 40.00
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor]
+
+  - github: Rajkoli145
+    display_name: "Rajkoli145"
+    type: human
+    wallet: Rajkoli145
+    repos: [Rustchain]
+    total_rtc_earned: 50.00
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor]
+
+  - github: muhammetsimssek
+    display_name: "muhammetsimssek"
+    type: human
+    wallet: muhammetsimssek
+    repos: [Rustchain]
+    total_rtc_earned: 100.00
+    join_date: "2026-01-20"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: scooter7777
+    display_name: "scooter7777"
+    type: human
+    wallet: scooter7777-wallet
+    repos: [Rustchain]
+    total_rtc_earned: 27.50
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor, stargazer]
+
+  - github: tomisnotcat
+    display_name: "tomisnotcat"
+    type: human
+    wallet: null
+    repos: [Rustchain]
+    total_rtc_earned: 0.00
+    join_date: "2026-03-01"
+    status: active
+    roles: [contributor]
+    notes: "Awaiting wallet. 10 RTC pending for PR #758."
+
+  - github: jojo-771771
+    display_name: "jojo-771771"
+    type: human
+    wallet: jojo-771771
+    repos: [rustchain-bounties]
+    total_rtc_earned: 102.00
+    join_date: "2026-01-15"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: godong0128
+    display_name: "godong0128"
+    type: human
+    wallet: godong0128
+    repos: [rustchain-bounties]
+    total_rtc_earned: 550.00
+    join_date: "2026-01-10"
+    status: active
+    roles: [bounty-hunter, stargazer]
+    notes: "101 stars + follow + March Madness."
+
+  - github: Tianlin0725
+    display_name: "Tianlin0725"
+    type: human
+    wallet: tianlin-rtc
+    repos: [rustchain-bounties, beacon-skill]
+    total_rtc_earned: 436.00
+    join_date: "2026-01-10"
+    status: active
+    roles: [contributor, bounty-hunter, stargazer]
+
+  - github: energypantry
+    display_name: "energypantry"
+    type: human
+    wallet: energypantry
+    repos: [rustchain-bounties, beacon-skill]
+    total_rtc_earned: 110.00
+    join_date: "2026-01-20"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: lustsazeus-lab
+    display_name: "lustsazeus-lab"
+    type: human
+    wallet: lustsazeus-lab
+    repos: [rustchain-bounties, beacon-skill]
+    total_rtc_earned: 48.00
+    join_date: "2026-02-01"
+    status: active
+    roles: [contributor, bounty-hunter]
+
+  - github: M3nnoun
+    display_name: "M3nnoun"
+    type: human
+    wallet: null
+    repos: [bottube]
+    total_rtc_earned: 0.00
+    join_date: "2026-02-15"
+    status: active
+    roles: [contributor]
+    notes: "Awaiting wallet. RTC pending for PR #313."
+
+  - github: MadHHH
+    display_name: "MadHHH"
+    type: human
+    wallet: null
+    repos: [bottube]
+    total_rtc_earned: 0.00
+    join_date: "2026-02-15"
+    status: active
+    roles: [contributor]
+
+  # ─── STARGAZERS & REVIEWERS ────────────────────────────
+
+  - github: yanjuan99
+    display_name: "yanjuan99"
+    type: human
+    wallet: null
+    repos: [rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-03-09"
+    status: active
+    roles: [reviewer]
+    notes: "First-impression reviewer on #1109."
+
+  # ─── BOT / FLAGGED ────────────────────────────────────
+
+  - github: MontaEllis8
+    display_name: "MontaEllis8 (Jeff-Dean AI Agent)"
+    type: bot
+    wallet: null
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-03-01"
+    status: inactive
+    roles: [bot-contributor]
+    notes: "Rubber-stamp reviewer. 16 PRs auto-approved. Flagged."
+
   # ─── MINERS ────────────────────────────────────────────
 
   - github: null
@@ -183,6 +545,99 @@ contributors:
     status: active
     roles: [miner]
     notes: "First external node. Ryan's Proxmox Factorio server."
+
+  # ─── WALLET-ONLY (no GitHub, earned via stars/engagement) ─
+
+  - github: null
+    display_name: "simplereally"
+    type: human
+    wallet: simplereally
+    repos: []
+    total_rtc_earned: 1075.00
+    join_date: "2025-12-01"
+    status: active
+    roles: [bounty-hunter]
+    notes: "Early contributor. High RTC."
+
+  - github: null
+    display_name: "daytonsaiagents-commits"
+    type: agent
+    wallet: daytonsaiagents-commits
+    repos: []
+    total_rtc_earned: 385.00
+    join_date: "2026-01-10"
+    status: active
+    roles: [agent-contributor]
+
+  - github: null
+    display_name: "atlas-agent-01"
+    type: agent
+    wallet: atlas-agent-01
+    repos: []
+    total_rtc_earned: 176.00
+    join_date: "2026-01-15"
+    status: active
+    roles: [agent-contributor]
+
+  - github: null
+    display_name: "nyx-agent-01"
+    type: agent
+    wallet: nyx-agent-01
+    repos: []
+    total_rtc_earned: 115.00
+    join_date: "2026-01-20"
+    status: active
+    roles: [agent-contributor]
+
+  - github: null
+    display_name: "redlittenyoth"
+    type: human
+    wallet: redlittenyoth
+    repos: []
+    total_rtc_earned: 127.00
+    join_date: "2026-01-15"
+    status: active
+    roles: [bounty-hunter, stargazer]
+
+  - github: null
+    display_name: "lopieloo"
+    type: human
+    wallet: lopieloo
+    repos: []
+    total_rtc_earned: 125.00
+    join_date: "2026-01-20"
+    status: active
+    roles: [bounty-hunter]
+
+  - github: null
+    display_name: "believening"
+    type: human
+    wallet: believening
+    repos: []
+    total_rtc_earned: 169.50
+    join_date: "2026-01-15"
+    status: active
+    roles: [bounty-hunter, stargazer]
+
+  - github: null
+    display_name: "newffnow-github"
+    type: human
+    wallet: newffnow-github
+    repos: []
+    total_rtc_earned: 167.50
+    join_date: "2026-01-10"
+    status: active
+    roles: [bounty-hunter, stargazer]
+
+  - github: null
+    display_name: "hriszc"
+    type: human
+    wallet: hriszc
+    repos: []
+    total_rtc_earned: 150.00
+    join_date: "2026-01-20"
+    status: active
+    roles: [bounty-hunter]
 
   # ─── TEMPLATE ──────────────────────────────────────────
   # Copy this to register:
